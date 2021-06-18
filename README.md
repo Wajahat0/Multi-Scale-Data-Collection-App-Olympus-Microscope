@@ -1,2 +1,5 @@
 # Multi-Scale-Data-Collection-App-Olympus-Microscope
-Multi Scale Data Collection App Olympus Microscope. This app will be used to track the 1000x blood patch at 100x and 400x and to capture Images. 
+Multi Scale Data Collection App Olympus Microscope. This app will be used to track the 1000x blood patch at 100x and 400x and to capture Images for Educational purpose.
+This needs the approximated x,y coordinate of the microscope slider and 1000x patch Image which you want to track.
+This App is desinged using Matlab App desiner Softwere. (Matlab 2019a).
+Use Image acquiring & Processing toolbox and Computer vision toolbox etc.
