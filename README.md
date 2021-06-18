@@ -3,3 +3,4 @@ Multi Scale Data Collection App Olympus Microscope. This app will be used to tra
 This needs the approximated x,y coordinate of the microscope slider and 1000x patch Image which you want to track.
 This App is desinged using Matlab App desiner Softwere. (Matlab 2019a).
 Use Image acquiring & Processing toolbox and Computer vision toolbox etc.
+For more Information Please Use IML Information document. 
