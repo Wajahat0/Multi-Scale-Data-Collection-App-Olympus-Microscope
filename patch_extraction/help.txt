@@ -1,0 +1,11 @@
+
+This function converts the Images into
+
+1. crop the black region and save the images into png formate to save the hard disk space.
+Data will be save in Raw folder with slide name folder.
+2. Extract the crossponding patches from the Images at 100x, 400x and 1000x.
+
+ 
+
+Data_tif_2_png.m
+1.it requires detectreg.m
